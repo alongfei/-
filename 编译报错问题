@@ -1,0 +1,6 @@
+解决640行报错
+https://blog.csdn.net/zhoukaiqili/article/details/126191871
+对于旧内核KernelSU不工作以及模块功能失效问题的部分解决方案
+https://github.com/tiann/KernelSU/discussions/956
+其他
+https://github.com/MiCode/Xiaomi_Kernel_OpenSource/issues/2160
